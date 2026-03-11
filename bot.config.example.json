@@ -1,0 +1,9 @@
+{
+  "serviceName": "feishu_codex_bot",
+  "feishu": {
+    "appId": "cli_xxx",
+    "appSecret": "xxx"
+  },
+  "workspaceRoot": "/absolute/path",
+  "cardVerbosity": "normal"
+}

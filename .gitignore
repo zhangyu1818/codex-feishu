@@ -1,0 +1,7 @@
+node_modules/
+dist/
+dist-bun/
+src/generated/codex-protocol/
+.env
+.data/
+bot.config.json
